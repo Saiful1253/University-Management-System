@@ -1,0 +1,6 @@
+{
+  "name": "School Management System",
+  "description": "A comprehensive school management system for student, teacher, attendance, exam, fee, and notice management with role-specific dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
